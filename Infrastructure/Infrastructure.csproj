@@ -6,6 +6,10 @@
     <ProjectReference Include="..\Core\Core.csproj" />
   </ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Data\SeedData\" />
+	</ItemGroup>
+
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>

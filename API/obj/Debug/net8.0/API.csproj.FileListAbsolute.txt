@@ -78,3 +78,6 @@ D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Infrastructure.dll
 D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Infrastructure.pdb
 D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Core.dll
 D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Core.pdb
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\AutoMapper.dll
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
