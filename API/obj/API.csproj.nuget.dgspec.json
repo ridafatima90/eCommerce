@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj": {}
+    "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj": {
+    "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj",
+        "projectUniqueName": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj",
+        "projectPath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj",
         "packagesPath": "C:\\Users\\dearm\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\obj\\",
+        "outputPath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

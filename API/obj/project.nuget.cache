@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mdq7YlobynkxK5Sn7QwocRqjQyFNnUQchfyDvrMXJ3v23uYTVIhZv5oWlnW/CKJqb/h4f9o+/iCTE7mJpDHVfw==",
+  "dgSpecHash": "qxL0/oVzo9raMSHblf3BUZcYN4MqCY/wgIu6uaMxS/6pT33Yb7jVc6CJcEQ+Pfnax/uhLf+DFZYG6jGP/3h2dQ==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj",
+  "projectFilePath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dearm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
