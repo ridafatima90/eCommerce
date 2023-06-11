@@ -31,7 +31,7 @@ namespace API.Extensions
                         .SelectMany(x => x.Value.Errors)
                         .Select(x => x.ErrorMessage).ToArray();
 
-                    var errorResponse = new ApiValidationErrorResponse()
+                    var errorResponse = new ApiValidationErrorResponse
                     {
                         Errors = errors
                     };
