@@ -11,6 +11,6 @@
             Id = id;
         }
         public string Id { get; set; }
-        public List<BasketItems> Items { get; set; } = new List<BasketItems>();
+        public List<BasketItem> Items { get; set; } = new List<BasketItem>();
     }
 }
