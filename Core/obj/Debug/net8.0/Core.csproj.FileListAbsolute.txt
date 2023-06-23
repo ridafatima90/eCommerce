@@ -6,6 +6,7 @@ D:\CSharp\Projects\ecommerce\mytry\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEd
 D:\CSharp\Projects\ecommerce\mytry\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
 D:\CSharp\Projects\ecommerce\mytry\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
 D:\CSharp\Projects\ecommerce\mytry\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\CSharp\Projects\ecommerce\mytry\Core\obj\Debug\net8.0\Core.sourcelink.json
 D:\CSharp\Projects\ecommerce\mytry\Core\obj\Debug\net8.0\Core.dll
 D:\CSharp\Projects\ecommerce\mytry\Core\obj\Debug\net8.0\refint\Core.dll
 D:\CSharp\Projects\ecommerce\mytry\Core\obj\Debug\net8.0\Core.pdb
