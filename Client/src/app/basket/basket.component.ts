@@ -11,8 +11,8 @@ export class BasketComponent {
   constructor(public basketService: BasketService) {
   }
 
-  removeItem(id: number, quantity: number) {
-    this.basketService.removeItemFromBasket(id, quantity);
+  removeItem(event: {id: number, quantity: number}) {
+    this.basketService.removeItemFromBasket(event.id, event.quantity);
   }
 
   incrementQuantity(item: BasketItem) {

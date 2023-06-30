@@ -21,7 +21,7 @@ namespace Infrastructure.Identity
                         Street = "10th Avenue",
                         City = "New York",
                         State = "USA",
-                        ZipCode = "110117"
+                        Zipcode = "110117"
                     }
                 };
 
