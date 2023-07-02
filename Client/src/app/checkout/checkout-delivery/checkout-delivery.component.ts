@@ -24,6 +24,6 @@ export class CheckoutDeliveryComponent implements OnInit {
   }
 
   setShippingPrice(deliveryMethod:DeliveryMethod){
-    this.basketService.shippingPrice(deliveryMethod);
+    this.basketService.setShippingPrice(deliveryMethod);
   }
 }

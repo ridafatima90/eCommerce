@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vlnobbGRAlra32+zO9O5ipcaZt5UFVBTf17Jdkp2hw1ubtkEo9BM3LHRG4ybOPcuFR102KH1O8Y5BF29bwDh8Q==",
+  "dgSpecHash": "nhzcgJviFN3SdavFfi0n6EGVt/tY9gABhRNBik7+SzXl3gpFeR5QTpkb1lklInPFy8jhnoVMhYtV/69EWIod9Q==",
   "success": true,
   "projectFilePath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -61,8 +61,10 @@
     "C:\\Users\\dearm\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\dearm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
+    "C:\\Users\\dearm\\.nuget\\packages\\stripe.net\\41.23.0-beta.1\\stripe.net.41.23.0-beta.1.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

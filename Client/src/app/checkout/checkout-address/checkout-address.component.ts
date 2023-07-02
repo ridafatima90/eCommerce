@@ -17,7 +17,7 @@ export class CheckoutAddressComponent {
     this.accountService.updateAddress(this.checkoutForm?.get('addressForm')?.value).subscribe({
       next: () => {
         this.toastr.success("Address Updated!");
-          this.checkoutForm?.get('addressForm')?.value.reset(this.checkoutForm?.get('addressForm')?.value);
+          this.checkoutForm?.get('addressForm')?.reset(this.checkoutForm?.get('addressForm')?.value);
       }
     })
   }

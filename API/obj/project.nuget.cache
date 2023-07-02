@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+Drjs+5tQEXJB/EMFXaaLmJyNozz82ws9E3UBvJ/OG/Knpq9L2CnqfT12EmrPfSEUfITxakGVym/LqrsYXpQgg==",
+  "dgSpecHash": "sJLgsrZk/9Z1CBoavDjOZwYpcoj4oHYM03Mw7pxsVgGgBuf2F5SLwWJMZm+6HMu52Lkrt8FUqY7x7xc/O6ivqw==",
   "success": true,
   "projectFilePath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj",
   "expectedPackageFiles": [
@@ -72,8 +72,10 @@
     "C:\\Users\\dearm\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\dearm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
+    "C:\\Users\\dearm\\.nuget\\packages\\stripe.net\\41.23.0-beta.1\\stripe.net.41.23.0-beta.1.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

@@ -86,3 +86,5 @@ D:\CSharp\Projects\ecommerce\mytry\API\obj\Debug\net8.0\refint\API.dll
 D:\CSharp\Projects\ecommerce\mytry\API\obj\Debug\net8.0\API.pdb
 D:\CSharp\Projects\ecommerce\mytry\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\CSharp\Projects\ecommerce\mytry\API\obj\Debug\net8.0\ref\API.dll
+D:\CSharp\Projects\ecommerce\mytry\api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CSharp\Projects\ecommerce\mytry\api\bin\Debug\net8.0\Stripe.net.dll
