@@ -15,6 +15,6 @@ namespace API.DTOs
         [Precision(18, 2)]
         public decimal Subtotal { get; set; }
         public decimal Total { get; set; }
-        public OrderStatus Status { get; set; }
+        public string Status { get; set; }
     }
 }
