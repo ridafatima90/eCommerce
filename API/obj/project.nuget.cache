@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJLgsrZk/9Z1CBoavDjOZwYpcoj4oHYM03Mw7pxsVgGgBuf2F5SLwWJMZm+6HMu52Lkrt8FUqY7x7xc/O6ivqw==",
+  "dgSpecHash": "9NBznJWu9jhu8sppP8EPWW5SILN+uMKegO+dP8DZ359SaTurQaEMVnPshNpJgIqZiV3dOCH8NBuQP8/PDEQaAg==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj",
+  "projectFilePath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dearm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -73,6 +73,8 @@
     "C:\\Users\\dearm\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\dearm\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\dearm\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0-preview.4\\npgsql.entityframeworkcore.postgresql.8.0.0-preview.4.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
     "C:\\Users\\dearm\\.nuget\\packages\\stripe.net\\41.23.0-beta.1\\stripe.net.41.23.0-beta.1.nupkg.sha512",

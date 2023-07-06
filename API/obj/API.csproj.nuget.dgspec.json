@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj": {}
+    "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj": {
+    "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj",
+        "projectUniqueName": "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\API.csproj",
+        "projectPath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\API.csproj",
         "packagesPath": "C:\\Users\\dearm\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\obj\\",
+        "outputPath": "D:\\CSharp\\Projects\\ecommerce\\mytry\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -225,6 +225,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.31.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
             },
             "StackExchange.Redis": {
               "target": "Package",

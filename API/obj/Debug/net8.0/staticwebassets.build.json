@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vUx+N8aAODwi/wzsiLIrqQUCLZS3cBf8LCiIuhks3FI=",
+  "Hash": "2KV0c3jA1aCrmFaoZmn2SwINtxZ2QuHB599vAVjTJlI=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\.DS_Store",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\207.6cf2a28ed05f34c0.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/.DS_Store",
+      "RelativePath": "207.6cf2a28ed05f34c0.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
+      "OriginalItemSpec": "wwwroot\\207.6cf2a28ed05f34c0.js"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\382.4c29483f1beb437b.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang1.png",
+      "RelativePath": "382.4c29483f1beb437b.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
+      "OriginalItemSpec": "wwwroot\\382.4c29483f1beb437b.js"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang2.png",
+      "RelativePath": "3rdpartylicenses.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
+      "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\481.45cb62cbdc83ae5e.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core1.png",
+      "RelativePath": "481.45cb62cbdc83ae5e.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
+      "OriginalItemSpec": "wwwroot\\481.45cb62cbdc83ae5e.js"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\918.161382abb0d4a1c5.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core2.png",
+      "RelativePath": "918.161382abb0d4a1c5.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
+      "OriginalItemSpec": "wwwroot\\918.161382abb0d4a1c5.js"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\920.7c3e9188e3b91810.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-redis1.png",
+      "RelativePath": "920.7c3e9188e3b91810.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
+      "OriginalItemSpec": "wwwroot\\920.7c3e9188e3b91810.js"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\assets\\images\\hero1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code1.png",
+      "RelativePath": "assets/images/hero1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\hero1.jpg"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\assets\\images\\hero2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code2.png",
+      "RelativePath": "assets/images/hero2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\hero2.jpg"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\assets\\images\\hero3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react1.png",
+      "RelativePath": "assets/images/hero3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\hero3.jpg"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react2.png",
+      "RelativePath": "assets/images/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\assets\\images\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-core1.png",
+      "RelativePath": "assets/images/placeholder.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\placeholder.png"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\common.4b599f9811b119df.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react1.png",
+      "RelativePath": "common.4b599f9811b119df.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
+      "OriginalItemSpec": "wwwroot\\common.4b599f9811b119df.js"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react2.png",
+      "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang1.png",
+      "RelativePath": "fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang2.png",
+      "RelativePath": "fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core1.png",
+      "RelativePath": "fontawesome-webfont.cf011583fb81df9f.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core2.png",
+      "RelativePath": "fontawesome-webfont.da909aa098b0ee2d.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-react1.png",
+      "RelativePath": "fontawesome-webfont.e9955780856cf8aa.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2"
     },
     {
-      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ts1.png",
+      "RelativePath": "index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,7 +337,75 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\main.3f3fc73ed0fe9691.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "main.3f3fc73ed0fe9691.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.3f3fc73ed0fe9691.js"
+    },
+    {
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\polyfills.dbef80bf36c85f2e.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "polyfills.dbef80bf36c85f2e.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\polyfills.dbef80bf36c85f2e.js"
+    },
+    {
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\runtime.3ef9c13e6936da15.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "runtime.3ef9c13e6936da15.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\runtime.3ef9c13e6936da15.js"
+    },
+    {
+      "Identity": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\styles.8801413e793d785c.css",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CSharp\\Projects\\ecommerce\\mytry\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "styles.8801413e793d785c.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.8801413e793d785c.css"
     }
   ]
 }

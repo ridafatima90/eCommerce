@@ -88,3 +88,9 @@ D:\CSharp\Projects\ecommerce\mytry\API\obj\Debug\net8.0\API.genruntimeconfig.cac
 D:\CSharp\Projects\ecommerce\mytry\API\obj\Debug\net8.0\ref\API.dll
 D:\CSharp\Projects\ecommerce\mytry\api\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\CSharp\Projects\ecommerce\mytry\api\bin\Debug\net8.0\Stripe.net.dll
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Npgsql.dll
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Data\SeedData\brands.json
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Data\SeedData\delivery.json
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Data\SeedData\products.json
+D:\CSharp\Projects\ecommerce\mytry\API\bin\Debug\net8.0\Data\SeedData\types.json

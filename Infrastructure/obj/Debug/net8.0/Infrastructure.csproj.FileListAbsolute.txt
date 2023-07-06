@@ -14,3 +14,7 @@ D:\CSharp\Projects\ecommerce\mytry\Infrastructure\obj\Debug\net8.0\Infrastructur
 D:\CSharp\Projects\ecommerce\mytry\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\CSharp\Projects\ecommerce\mytry\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\CSharp\Projects\ecommerce\mytry\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\CSharp\Projects\ecommerce\mytry\Infrastructure\bin\Debug\net8.0\Data\SeedData\brands.json
+D:\CSharp\Projects\ecommerce\mytry\Infrastructure\bin\Debug\net8.0\Data\SeedData\delivery.json
+D:\CSharp\Projects\ecommerce\mytry\Infrastructure\bin\Debug\net8.0\Data\SeedData\products.json
+D:\CSharp\Projects\ecommerce\mytry\Infrastructure\bin\Debug\net8.0\Data\SeedData\types.json
